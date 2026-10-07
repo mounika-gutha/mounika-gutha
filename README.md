@@ -40,14 +40,14 @@ I'm a DevOps & MLOps focused engineer interested in building automated, reliable
 
 ## 🎯 Highlights
 
-🚀 Hands-on DevOps & MLOps projects
-🔄 CI/CD automation using GitHub Actions
-🐳 Docker-based containerization
-☸️ Kubernetes and Helm
-🔁 GitOps workflows using Argo CD
-📊 Monitoring with Prometheus & Grafana
-📝 Centralized logging using Loki
-🐧 Linux administration and troubleshooting
+- 🚀 Hands-on DevOps & MLOps projects
+- 🔄 CI/CD automation using GitHub Actions
+- 🐳 Docker-based containerization
+- ☸️ Kubernetes and Helm
+- 🔁 GitOps workflows using Argo CD
+- 📊 Monitoring with Prometheus & Grafana
+- 📝 Centralized logging using Loki
+- 🐧 Linux administration and troubleshooting
 
 ---
 
