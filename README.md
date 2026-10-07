@@ -53,13 +53,13 @@ I'm a DevOps & MLOps focused engineer interested in building automated, reliable
 
 ## 🎨 Featured Projects
 
-### ☸️ GitOps Kubernetes Platform
+### 🤖 Production Agentic Pipeline & Orchestration Engine
 
-Infrastructure and application deployment platform using **Terraform, Kubernetes, and GitOps**.
+Agentic workflow platform built using **n8n, Flask, Ollama, MongoDB, and Docker Compose** to automate request processing, workflow orchestration, and local LLM responses.
 
-Implemented automated workflows with GitHub Actions, GitOps deployment using Argo CD, and integrated monitoring and logging components.
+Implemented session-based conversation memory, REST API integration, local **Qwen 2.5 0.5B** inference, and automated CI/CD workflows using GitHub Actions.
 
-🔗 [GitOps Kubernetes Platform](https://github.com/mounika-gutha/gitops-eks-platform)
+🔗 [Production Agentic Pipeline](https://github.com/mounika-gutha/production-agentic-pipeline)
 
 ---
 
