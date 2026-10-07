@@ -6,14 +6,14 @@ B.Tech in CSE (AI & ML), India
 
 ## 💡 About Me
 
-I'm a DevOps & MLOps focused engineer interested in building automated, reliable, and observable software systems by combining **CI/CD, containers, Kubernetes, GitOps, monitoring, and machine learning workflows**.
+I'm a DevOps & MLOps focused engineer interested in building automated, reliable, and observable software systems using **CI/CD, containers, Kubernetes, GitOps, monitoring, and machine learning workflows**.
 
 ⚙️ DevOps & MLOps focused
 🐳 Containerization & CI/CD automation
 ☸️ Kubernetes & GitOps workflows
-📊 Monitoring & observability
-🤖 Machine learning deployment & MLOps
-🐧 Linux & infrastructure automation
+📊 Monitoring & Observability
+🤖 Machine Learning & MLOps
+🐧 Linux & Infrastructure Automation
 
 ---
 
@@ -41,18 +41,18 @@ I'm a DevOps & MLOps focused engineer interested in building automated, reliable
 
 ### MLOps & Development
 
-**MLflow • Flask • Python • SQL • HTML • CSS**
+**Python • MLflow • Flask**
 
 ---
 
 ## 🎯 Highlights
 
-🚀 Built hands-on DevOps & MLOps projects
+🚀 Hands-on DevOps & MLOps projects
 🔄 CI/CD automation using GitHub Actions
-🐳 Docker-based containerization and deployment
-☸️ Kubernetes environments with Helm
+🐳 Docker-based containerization
+☸️ Kubernetes and Helm
 🔁 GitOps workflows using Argo CD
-📊 Centralized monitoring with Prometheus & Grafana
+📊 Monitoring with Prometheus & Grafana
 📝 Centralized logging using Loki
 🐧 Linux administration and troubleshooting
 
@@ -62,7 +62,7 @@ I'm a DevOps & MLOps focused engineer interested in building automated, reliable
 
 ### ☸️ GitOps Kubernetes Platform
 
-Infrastructure and application deployment platform using **Terraform, Kubernetes and GitOps**.
+Infrastructure and application deployment platform using **Terraform, Kubernetes, and GitOps**.
 
 Implemented automated workflows with GitHub Actions, GitOps deployment using Argo CD, and integrated monitoring and logging components.
 
@@ -72,7 +72,7 @@ Implemented automated workflows with GitHub Actions, GitOps deployment using Arg
 
 ### 📊 Centralized Observability Stack
 
-Kubernetes-based observability platform combining **Prometheus, Grafana and Loki** for metrics, visualization, centralized logging and alerting.
+Kubernetes-based observability platform using **Prometheus, Grafana, and Loki** for metrics, visualization, centralized logging, and alerting.
 
 Implemented Kubernetes monitoring resources and application availability monitoring.
 
@@ -82,7 +82,7 @@ Implemented Kubernetes monitoring resources and application availability monitor
 
 ### 🛒 DailyGrocer
 
-Full-stack grocery application built with **Flask, HTML, CSS and JavaScript**, including REST APIs and application health monitoring.
+Application built with **Flask and JavaScript**, including REST APIs and application health monitoring.
 
 🔗 [DailyGrocer](https://github.com/mounika-gutha/dailygrocer)
 
